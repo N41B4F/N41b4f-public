@@ -1,0 +1,1 @@
+![alt text](/images/terminal-sreenshot.jpg)
