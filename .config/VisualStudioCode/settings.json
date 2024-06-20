@@ -1,7 +1,7 @@
 {
   "eslint.enable": true, // Se Habilita el soporte de ESLint
   "eslint.run": "onSave", // Ejecuta ESLint automaticamente cada vez que se guarda el archivo
-  "editor.wordWrap": "on", // Ajusta las lineas al tamaño de la ventana del editor
+  "editor.wordWrap": "off", // Ajusta las lineas al tamaño de la ventana del editor
   "editor.cursorStyle": "underline", // Cambia el estilo del Cursor
   "editor.formatOnSave": true, // Formatea automaticamente el codigo al guardar el archivo
   "editor.defaultFormatter": "esbenp.prettier-vscode" // Establecer Prettier como el formateador por defecto
